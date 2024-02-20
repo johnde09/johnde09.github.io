@@ -1,0 +1,12 @@
+1. Lag en dataklasse som holder på fornavn, mellomnavn og etternavn til en person.
+
+2. Lag en metode som oppretter instanser av dataklassen over og returnerer en string som er det fulle navnet slått sammen.
+
+3. Lag to tester som bruker metoden over for å opprette og verifisere navnet til følgende personer:
+    - Lars Olsen
+        - Fornavn: Lars
+        - Etternavn: Olsen
+    - Emilie Marie Johansen
+        - Fornavn: Emilie
+        - Mellomnavn: Marie
+        - Etternavn: Johansen
